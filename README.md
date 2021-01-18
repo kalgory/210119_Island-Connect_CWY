@@ -16,4 +16,4 @@ p: edge의 개수
 
 # Flowchart
 
-![island connect](\island connect.jpg)
+![island connect](https://user-images.githubusercontent.com/64261939/104889646-d7d3d680-59b1-11eb-8b20-2d4586f3ad5a.jpg)
